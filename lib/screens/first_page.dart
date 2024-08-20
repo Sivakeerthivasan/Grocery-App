@@ -23,7 +23,7 @@ class FirstScreen extends StatelessWidget {
             const Padding(
               padding: EdgeInsets.all(10.0),
               child: Text(
-                'Fat Deleivery at \n  your doorstep',
+                'Fast Deleivery at \n  your doorstep',
                 style: TextStyle(
                     fontSize: 35,
                     fontWeight: FontWeight.bold,
